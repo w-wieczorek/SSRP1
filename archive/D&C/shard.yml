@@ -1,0 +1,18 @@
+name: ssrp
+version: 0.1.0
+
+authors:
+  - Wojciech Wieczorek <wwieczorek@ath.bielsko.pl>
+
+targets:
+  ssrp:
+    main: src/main.cr
+
+dependencies:
+  commander:
+    github: mrrooijen/commander
+    version: ~> 0.4.0
+
+crystal: 1.0.0
+
+license: MIT
