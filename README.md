@@ -78,7 +78,7 @@ optional arguments:
 Example:
 
 ```
-python .\experiments.py --file ..\data\words_500_0500_12_0.015.dat --k 10 --time_limit_sec 30 --repeats 1
+python .\experiments.py --file ..\data\words_500_5000_12_0.015.dat --k 10 --time_limit_sec 30 --repeats 1
 
 ```
 
